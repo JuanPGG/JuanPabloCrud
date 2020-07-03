@@ -1,0 +1,11 @@
+C:\Users\juanp\source\repos\crudA\crudA\bin\Debug\crudA.exe.config
+C:\Users\juanp\source\repos\crudA\crudA\bin\Debug\crudA.exe
+C:\Users\juanp\source\repos\crudA\crudA\bin\Debug\crudA.pdb
+C:\Users\juanp\source\repos\crudA\crudA\obj\Debug\crudA.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\crudA\crudA\obj\Debug\crudA.Form1.resources
+C:\Users\juanp\source\repos\crudA\crudA\obj\Debug\crudA.Properties.Resources.resources
+C:\Users\juanp\source\repos\crudA\crudA\obj\Debug\crudA.csproj.GenerateResource.cache
+C:\Users\juanp\source\repos\crudA\crudA\obj\Debug\crudA.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\crudA\crudA\obj\Debug\crudA.exe
+C:\Users\juanp\source\repos\crudA\crudA\obj\Debug\crudA.pdb
+C:\Users\juanp\source\repos\crudA\crudA\obj\Debug\crudA.Views.Form2.resources
